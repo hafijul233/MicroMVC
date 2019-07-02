@@ -8,7 +8,8 @@
         "source": "https://github.com/hafijul233/MicroMVC"
     },
     "require": {
-        "php": ">=5.3.7"
+        "php": ">=5.3.7",
+        "illuminate/database": "^5.8"
     },
     "suggest": {
 
