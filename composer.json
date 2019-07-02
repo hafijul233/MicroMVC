@@ -1,0 +1,19 @@
+{
+    "description": "The MicroMVC PHP Web Framwork",
+    "name": "vendor/micro-m-v-c",
+    "type": "project",
+    "homepage": "https://github.com/hafijul233",
+    "license": "GNU GENERAL PUBLIC LICENSE",
+    "support": {
+        "source": "https://github.com/hafijul233/MicroMVC"
+    },
+    "require": {
+        "php": ">=5.3.7"
+    },
+    "suggest": {
+
+    },
+    "require-dev": {
+
+    }
+}
